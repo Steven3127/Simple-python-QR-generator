@@ -1,0 +1,1 @@
+# Simple-python-QR-generator
