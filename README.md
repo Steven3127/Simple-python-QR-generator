@@ -1,4 +1,4 @@
-# Simple-python-QR-generator
+# Simple qr code generator in python
 
 !QR code generator from the terminal 
 
